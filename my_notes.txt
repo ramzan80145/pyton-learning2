@@ -1,0 +1,3 @@
+Name: Ramzan
+Learning Python
+Goal: Build AI apps
